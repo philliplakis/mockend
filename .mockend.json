@@ -9,6 +9,6 @@
     "link": "string",
     "createdAt": "date",
     "tags": "[]",
-    "published": "boolean",
+    "published": "boolean"
   }
 }
