@@ -1,0 +1,14 @@
+{
+  "Story": {
+    "title": "string",
+    "subtitle": "string",
+    "content": "string",
+    "image": "string",
+    "color": "string",
+    "likeCount": "int",
+    "link": "string",
+    "createdAt": "date",
+    "tags": "[]",
+    "published": "boolean",
+  }
+}
